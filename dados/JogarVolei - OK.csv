@@ -1,0 +1,15 @@
+previsao,temperatura,umidade,vento,jogar
+ensolarado,quente,alta,nao_ventando,nao
+ensolarado,quente,alta,ventando,nao
+nublado,quente,alta,nao_ventando,sim
+chuvoso,brando,alta,nao_ventando,sim
+chuvoso,frio,normal,nao_ventando,sim
+chuvoso,frio,normal,ventando,nao
+nublado,frio,normal,ventando,sim
+ensolarado,brando,alta,nao_ventando,nao
+ensolarado,frio,normal,nao_ventando,sim
+chuvoso,brando,normal,nao_ventando,sim
+ensolarado,brando,normal,ventando,sim
+nublado,brando,alta,ventando,sim
+nublado,quente,normal,nao_ventando,sim
+chuvoso,brando,alta,ventando,nao
